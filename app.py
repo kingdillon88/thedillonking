@@ -36,7 +36,7 @@ with st.container():
     st.subheader("Hi, I'm Dillon")
     st.title("I'm an avid computer user who specilizes in microsoft windows and python.")
     st.write("I love finding new ways to do things, expecialy at the command line I also use linux from time to time.")
-    st.write("[my youtube](https://www.youtube.com/channel/UCQKoEeYxXqXDRKHMxBxEWKQ)")
+    st.write("[Buy Me A Coffee](https://bmc.link/kingdillon)")
 # ---- what I do ----
 with st.container():
     st.write("---")
