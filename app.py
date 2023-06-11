@@ -42,6 +42,7 @@ with st.container():
     st.title("I'm an avid computer user who specilizes in microsoft windows and python.")
     st.write("I love finding new ways to do things, expecialy at the command line I also use linux from time to time.")
     st.write("[Buy Me A Coffee](https://bmc.link/kingdillon)")
+    st.write("[check out my tech blog](https://thedillonking.blogspot.com/)")
 # ---- what I do ----
 with st.container():
     st.write("---")
